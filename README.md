@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 React App
 
 A simple and responsive **Login & Register** authentication system built
@@ -102,3 +103,7 @@ For real apps, integrate with a backend + database + JWT.
 ## 👨‍💻 Author
 
 -   Developed by **[Sahil kumar]**
+=======
+# Assignment1
+landing page
+>>>>>>> e77ad02b6a9322df648d71f81257853ecd6cdb13
