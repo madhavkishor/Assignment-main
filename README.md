@@ -102,8 +102,7 @@ For real apps, integrate with a backend + database + JWT.
 
 ## 👨‍💻 Author
 
--   Developed by **[Sahil kumar]**
+-   Developed by **[Madhav kishor]**
 =======
 # Assignment1
 landing page
->>>>>>> e77ad02b6a9322df648d71f81257853ecd6cdb13
